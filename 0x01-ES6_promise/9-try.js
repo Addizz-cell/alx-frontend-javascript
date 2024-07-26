@@ -1,4 +1,5 @@
-export default function guardrail(mathFunction) {
+export default function guardrail(mathFunction)
+{
   const queue = [];
   let res;
   try {
